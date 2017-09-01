@@ -1,0 +1,7 @@
+{
+  "name":    "rsa",
+  "version": "0.0.1",
+  "author": "chris",
+  "main": "rsa.js",
+  "license": "MIT"
+}
